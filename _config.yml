@@ -69,8 +69,8 @@ lsi: False
 username: datcjordan
 repo: testingforestry
 branch: master
-relative_source: ../
-destination: ../gh-pages/
+relative_source: ../testingforestry/
+destination: ../jasper-pages/
 production_url:  https://datcjordan.github.io/testingforestry/
 source_url:  https://github.com/datcjordan/testingforestry/
 
